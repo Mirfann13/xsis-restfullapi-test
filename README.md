@@ -6,7 +6,7 @@
 
 1. First, clone or download this repo
 ```bash
-
+https://github.com/Mirfann13/xsis-restfullapi-test.git
 ```
 2. Second, Create mysql database from your machine, then run sql script below :
 
